@@ -7,10 +7,7 @@
    ```sh
    git clone https://github.com/stxrsh1ne/PHP_Ilyushkin_YAV.git
    ```
-2. Перейдите в папку проекта:
-   ```sh
-   cd logic
-   ```
+2. Перейдите в папку проекта
 3. Скопируйте файл конфигурации среды:
    ```sh
    cp .env.example .env
